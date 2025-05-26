@@ -17,10 +17,11 @@ This project is a simple multithreaded chat server and client built using Java. 
 
 Compile and run the server:
 ```bash
+Server
 javac src/MyServer.java
 java -cp src MyServer
 
-Run
+Client
 java -jar jar/MyClient.jar
 
 
